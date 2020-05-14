@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70668" started-at="2020-05-14T19:10:57 IST" finished-at="2020-05-14T19:12:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70668" started-at="2020-05-14T19:10:57 IST" finished-at="2020-05-14T19:12:08 IST">
+      <class name="com.sj.qa.tests.SignupPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sj.qa.tests.SignupPageTest@1efed156]" name="setUp" is-config="true" duration-ms="48613" started-at="2020-05-14T19:10:57 IST" finished-at="2020-05-14T19:11:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateMemberRegTest()[pri:0, instance:com.sj.qa.tests.SignupPageTest@1efed156]" name="validateMemberRegTest" duration-ms="21810" started-at="2020-05-14T19:11:46 IST" finished-at="2020-05-14T19:12:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMemberRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sj.qa.tests.SignupPageTest@1efed156]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-05-14T19:12:08 IST" finished-at="2020-05-14T19:12:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sj.qa.tests.SignupPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
